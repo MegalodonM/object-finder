@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    color:white;
+    width:100%;
+}
+
+hr{
+    border-top:5px solid black;
+    width:50%;
+}
+
+#label{
+    text-align:center;
+}
+
+.main-body{
+   text-align;
+}
+
+start-btn{
+text-align:center;
+}
+
+canvas{
+    border:4px dashed black;
+}
